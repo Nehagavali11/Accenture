@@ -1,3 +1,2 @@
-Insights of Top Most 5 categories 
-Insights a Month with Highest Post Count
-Insights Most popular content Used by social buzz user
+Insights of top most 5 categories, Month with highest post count
+and Most popular content used by social buzz users
